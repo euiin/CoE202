@@ -2,6 +2,7 @@
 2021 spring <Fundamentals of Artigicial Intelligence>, from KAIST
 
 list of directory
+  
   Assignment1 : linear/ polynomial fitting with SGD
 
   Assginment2 : polynimial fitting on matlab data
